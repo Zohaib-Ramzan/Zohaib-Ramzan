@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/zohaibramzan10" target="blank"><img src="https://img.shields.io/twitter/follow/zohaibramzan10?logo=twitter&style=for-the-badge" alt="zohaibramzan10" /></a> </p>
 
-- 🔭 I’m currently working on **Expiry Date Reminder App**
+- 🔭 I’m currently working on **Brain Tumor Predictor App**
 
-- 🌱 I’m currently learning **React Native , Node js**
+-  👩🏻‍💻 I have created **Exp Reminder App**
+
+- 🌱 I’m currently learning ** Advance React Native , Node js**
 
 - 💬 Ask me about **TypeScript, React Native**
 
